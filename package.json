@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://LaPaNu4.github.io/project-Tenth_Team",
+  "homepage": "https://GoitStudentsWorks.github.io/js-78-LaPaNu4",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-Tenth_Team/"
+    "build": "parcel build src/*.html --public-url /js-78-LaPaNu4/"
   },
   "repository": {
     "type": "git",
